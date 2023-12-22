@@ -73,3 +73,13 @@ typora.io
 typingclub.com
 tablesgenerator.com
 reddit.com
+chat.openai.com
+githubusercontent.com
+api.github.com
+github.com
+chat.openai.com
+openai.com
+ip.sb
+github.io
+card.onekey.so
+music.163.com
